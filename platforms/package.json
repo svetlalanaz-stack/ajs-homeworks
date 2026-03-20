@@ -1,0 +1,20 @@
+{
+  "name": "@svetlalanaz-stack/platforms",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "homepage": "https://github.com/svetlalanaz-stack/ajs-homeworks/tree/master#readme",
+  "bugs": {
+    "url": "https://github.com/svetlalanaz-stack/ajs-homeworks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svetlalanaz-stack/ajs-homeworks.git#master"
+  },
+  "license": "ISC",
+  "author": "svetlalana",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
