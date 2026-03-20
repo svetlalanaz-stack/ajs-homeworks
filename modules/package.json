@@ -17,7 +17,7 @@
   "author": "svetlalana",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
+ "scripts": {
     "serve": "http-server src",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
