@@ -1,4 +1,4 @@
-import {Character} from './domain.js';
+import {Character} from './src/js/domain.js';
 
 export default class Game {}
 
